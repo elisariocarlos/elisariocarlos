@@ -6,14 +6,8 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+Sou desenvolvedor de software
 
-
-🌱 Também estou estudando typescript e angular
-
-💬 Sou entusiasta no desenvolvimento Java para APIs
-
-😄 Pronomes: Ele/Dele
 </div>
 <div align="center">
   <a href="https://github.com/MateusSouzaAlves">
