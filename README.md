@@ -6,8 +6,7 @@
 
 <div align="center">
   
-Sou desenvolvedor de software
-
+Actuo como desenvolvedor de software, sou o CEO & Founder da <a href="https://viewlabs.netlify.app" target="_blank">View Labs</a>
 </div>
 
 
